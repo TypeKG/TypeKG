@@ -2,7 +2,8 @@
 I'm a Boston-based engineer looking to learn new things and contribute to projects! 
 
 ## Portfolio
- * Character-Finder -> A simple Where's Waldo type clone made with React and Firebase
+ * [Character-Finder](https://github.com/kgroening05/character-finder) -> A simple Where's Waldo type clone made with React and Firebase
+ * [Dad-Jokes API](https://github.com/kgroening05/jokes-api) -> A simple server-side rendered page that gives you a random joke from a MongoDB instance 
  * More to come!
 
 ## Languages and Tools
