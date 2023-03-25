@@ -12,6 +12,7 @@ I'm a Boston-based engineer looking to learn new things and contribute to projec
  * ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
  * ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
  * ![](https://img.shields.io/badge/Code-node.js-informational?style=flat&logo=nodedotjs&logoColor=white&color=2bbc8a)
+ * ![](https://img.shields.io/badge/Code-Express.js-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
  * ![](https://img.shields.io/badge/Code-Jest-informational?style=flat&logo=jest&logoColor=white&color=2bbc8a)
  * ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
  * ![](https://img.shields.io/badge/Tool-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=2bbc8a)
