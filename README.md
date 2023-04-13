@@ -4,7 +4,7 @@ I'm a Boston-based engineer looking to learn new things and contribute to projec
 ## Portfolio
  * [Character-Finder](https://github.com/kgroening05/character-finder) -> A simple Where's Waldo type clone made with React and Firebase
  * [Dad-Jokes API](https://github.com/kgroening05/jokes-api) -> A simple server-side rendered page that gives you a random joke from a MongoDB instance 
- * More to come!
+ * Currently working on a word search solver with optical character recognition...
 
 ## Languages and Tools
  * ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
